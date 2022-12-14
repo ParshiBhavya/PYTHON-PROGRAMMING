@@ -1,0 +1,16 @@
+PRIMITIVE AND COLLECTIONS IN PYTHON
+
+Primitive
+---------
+1.integer(int)
+2.float(float)
+3.string(str)
+4.complex(cmplx)
+5.Boolean(bool)
+
+Collections
+-----------
+1.List[]
+2.Tuple()
+3.Set{}
+4.Dictionary{"":""}
